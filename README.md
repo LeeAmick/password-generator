@@ -11,7 +11,7 @@ This project is an application that generates random passwords for a user based 
 - Once the password is generated, it is displayed on the page within a text box for the user's convenience.
 
 
-
+Website: https://leeamick.github.io/password-generator/
 
 ## Credits
 
