@@ -13,3 +13,11 @@ This project is an application that generates random passwords for a user based 
 
 
 
+## Credits
+
+Base code developed and provided by Columbia Coding Bootcamp.
+
+## License
+
+ LICENSE in repo.
+
